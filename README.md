@@ -8,7 +8,7 @@ GRU), as well as against the exact results provided by DMRG (Density Matrix Reno
 
 ## 1D TFIM
 
-<img src="https://github.com/lorrespz/nqs_hyperbolic_rnn/figs/1d_tfim_comparison.png" width="300" height="300">
+<img src="https://github.com/lorrespz/nqs_hyperbolic_rnn/figs/1d_tfim_comparison.png"  style="width:50%; height:auto;">
 
 ## 2D TFIM
 
