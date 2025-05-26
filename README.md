@@ -7,15 +7,13 @@ one-dimensional Heisenberg $J_1J_2$ and $J_1J_2J_3$ models. In each of these 4 s
 GRU), as well as against the exact results provided by DMRG (Density Matrix Renormalization Group) method. The results of running the Variational Monte Carlo (VMC) experiments using hyperbolic GRU as well as Euclidean RNNs NQS ansatzes for each of the 4 settings are shown graphically below. 
 
 ## 1D TFIM
-
-<img src="https://github.com/lorrespz/nqs_hyperbolic_rnn/blob/main/figs/1d_j1j2_comparison.png"  style="width:50%; height:auto;">
+<img src="https://github.com/lorrespz/nqs_hyperbolic_rnn/blob/main/figs/1d_tfim_comparison.png"  style="width:60%; height:auto;">
 
 ## 2D TFIM
-
-![](figs/2d_tfim_comparison.png)
+<img src="https://github.com/lorrespz/nqs_hyperbolic_rnn/blob/main/figs/2d_tfim_comparison.png"  style="width:60%; height:auto;">
 
 ## 1D Heisenberg J1J2 
-![](figs/1d_j1j2_comparison.png)
+<img src="https://github.com/lorrespz/nqs_hyperbolic_rnn/blob/main/figs/1d_j1j2_comparison.png"  style="width:60%; height:auto;">
 
 ## 1D Heisenberg J1J2J3
-![](figs/1d_j1j2j3_comparison.png)
+<img src="https://github.com/lorrespz/nqs_hyperbolic_rnn/blob/main/figs/1d_j1j2j3_comparison.png"  style="width:60%; height:auto;">
