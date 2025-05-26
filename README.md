@@ -12,7 +12,7 @@ GRU), as well as against the exact results provided by DMRG (Density Matrix Reno
 
 # 2D TFIM
 
-![](comparisons/2d_tfim_comparison)
+![](comparisons/2d_tfim_comparison.png)
 
 # 1D Heisenberg J1J2 
 ![](comparisons/1d_j1j2_comparison.png)
