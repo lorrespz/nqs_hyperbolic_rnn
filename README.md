@@ -9,3 +9,9 @@ GRU), as well as against the exact results provided by DMRG (Density Matrix Reno
 # 1D TFIM
 
 ![1d_tfim_comparison](https://github.com/user-attachments/assets/96c998b7-5690-4353-8039-67ffae448076)
+
+# 2D TFIM
+
+![2d_tfim_comparison](https://github.com/user-attachments/assets/83d72645-6544-4519-b8ef-10d578a87a38)
+
+#1
