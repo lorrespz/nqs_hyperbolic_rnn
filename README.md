@@ -1,8 +1,12 @@
 ## Hyperbolic recurrent neural network as the first type of non-Euclidean neural quantum state ansatz 
 This is the GitHub repo for the work arXiv: 2505.22083. 
 
-In this work, we introduce hyperbolic GRU as the first type of non-Euclidean neural quantum state (NQS) for quantum many-body systems in condensed matter physics. 
+- In this work, we introduce hyperbolic GRU as the first type of non-Euclidean neural quantum state (NQS) for quantum many-body systems in condensed matter physics. 
 We investigate the viability and performance of hyperbolic GRU NQS ansatz in 4 prototypical settings for many-body quantum physics: one-dimensional & two-dimensional transverse field Ising models, one-dimensional Heisenberg $J_1J_2$ and $J_1J_2J_3$ models. In each of these 4 settings, hyperbolic GRU is benchmarked against different variants of Euclidean RNNs (either RNN or GRU), as well as against the exact results provided by DMRG (Density Matrix Renormalization Group) method. The results of running the Variational Monte Carlo (VMC) experiments using hyperbolic GRU as well as Euclidean RNNs NQS ansatzes for each of the 4 settings are shown graphically below (Each dot with error bar in the graphs represents the mean energy with standard error of an NQS ansatz - The closer the dot is to the red horizontal line representing the exact ground state energy, the better the NQS is at approximating the ground state energy). 
+
+- The main Python scripts are located in the `utility` directory, with other directories, corresponding to a Hamiltonian system under study, containing the Jupyter training notebooks (directory `training`) as well as the neural network trained weights (folder `results`). All neural networks were built with TF2 (Tensorflow 2), based on the TF1 (Tensorflow 1) codes from:
+  - https://github.com/mhibatallah/RNNWavefunctions
+  - https://github.com/dalab/hyperbolic_nn
 
 ## 1D TFIM
 - In the 1D TFIM setting, with the number of spins N being 20, 40, 80 and 100, where the Hamiltonian comprises only the nearest neighbor interaction and a transverse magnetic field, with no hierarchical interaction structure, three out of four times, hyperbolic GRU does not outperform either Euclidean RNN or GRU.
