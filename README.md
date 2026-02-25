@@ -1,6 +1,6 @@
 ## Hyperbolic recurrent neural network as the first type of non-Euclidean neural quantum state ansatz 
 
-This is the GitHub repo for the work https://arxiv.org/abs/2505.22083, featured on Quantum Zeitgeist (May 29, 2025): 
+This is the GitHub repo for the work https://arxiv.org/abs/2505.22083, featured in Quantum Zeitgeist (May 29, 2025): 
 
 https://quantumzeitgeist.com/hyperbolic-neural-networks-enhance-quantum-many-body-problem-solutions/
 
